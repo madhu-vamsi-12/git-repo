@@ -3,3 +3,9 @@ int m=5
 int n=6
 
 printf("subtraction of 2 numbers") in branch-1
+
+#include<stdio.h>
+int m=7 
+int n=8
+
+printf("multiplication of 2 numbers") in branch-1
