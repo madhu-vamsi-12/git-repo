@@ -3,3 +3,9 @@ int a=1
 int b=2
 
 printf("hello world") is 1st commit
+
+#include<stdio.h>
+int a=3
+int b=4
+
+printf("addition of 2 numbers") is 2nd commit
